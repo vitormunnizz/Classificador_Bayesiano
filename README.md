@@ -52,4 +52,4 @@ Esses resultados mostram que o Classificador Bayesiano teve um desempenho superi
 
 ## Contato
 
-Se você tiver dúvidas ou sugestões, entre em contato por vitor13muniz09@gmail.com.
+Se você tiver dúvidas ou sugestões, entre em contato por vitormunnizzdev@gmail.com.
