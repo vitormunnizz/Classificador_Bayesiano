@@ -1,6 +1,4 @@
-# Classificador Bayesiano com LDA
-
-## Descrição do Projeto
+## 📌 Descrição do Projeto
 
 Este projeto implementa um **Classificador Bayesiano** com atributos contínuos e **Análise Discriminante Linear (LDA)** para a classificação de duas classes de dados. O objetivo é realizar a classificação utilizando uma abordagem probabilística com o classificador Bayesiano e explorar a redução de dimensionalidade através do LDA. O modelo é avaliado usando a técnica de **Validação Cruzada K-Fold** com K=10, e os resultados são apresentados em termos de **acurácia média** e **desvio-padrão** da acurácia.
 
