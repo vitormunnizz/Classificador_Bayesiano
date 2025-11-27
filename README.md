@@ -50,6 +50,18 @@ Os resultados do projeto incluem a acurácia média e o desvio-padrão da acurá
 
 Esses resultados mostram que o Classificador Bayesiano teve um desempenho superior em ambos os conjuntos de dados, especialmente no **Conjunto de Dados Input1**, onde obteve uma acurácia perfeita. Já o LDA, apesar de sua simplicidade e eficiência computacional, obteve uma acurácia mais baixa, refletindo a complexidade dos dados.
 
-## Contato
+## 👨‍💻 Autor
 
-Se você tiver dúvidas ou sugestões, entre em contato por vitormunnizzdev@gmail.com.
+**Vitor Hugo Muniz de Sousa Santos**
+
+💼 Engenheiro de Computação | Cientista de Dados
+
+📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+
+## 📝 Licença
+
+Este projeto está licenciado sob a **MIT License**.
+Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
+
+⭐ **Se este projeto te ajudou, deixe uma estrela no repositório!**```
